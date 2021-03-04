@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Book Squad",
+    "slug": "book-squad",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#9FE6CF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#9FE6CF"
+      },
+      "package": "com.ghprod.booksquad"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
