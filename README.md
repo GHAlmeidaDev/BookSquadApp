@@ -1,4 +1,4 @@
 # BookSquadApp
 FullStack Application
 
-![](https://gifyu.com/image/ZY83)
+![Image of modern feed in action](./assets/BookSquad.gif)
