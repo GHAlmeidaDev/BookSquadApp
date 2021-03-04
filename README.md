@@ -1,4 +1,4 @@
 # BookSquadApp
 FullStack Application
 
-(https://gfycat.com/legalperfumedisabellinewheatear)
+![](https://thumbs.gfycat.com/LegalPerfumedIsabellinewheatear-mobile.mp4)
